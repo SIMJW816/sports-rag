@@ -1,0 +1,302 @@
+{
+  "q001": {
+    "answer": "Real Madrid won the UEFA Champions League in 2022.",
+    "contexts": [
+      "tournament_id: tr001\nname: UEFA Champions League\ntype: Club Continental\nfrequency: Annual\ncurrent_champion: Real Madrid\nmost_successful_team: Real Madrid\nprize_money_usd: 2000000000",
+      "The most recent era has seen Kylian Mbappé join in 2024, alongside established stars Vinicius Junior, Jude Bellingham, and Trent Alexander-Arnold. Under Carlo Ancelotti — who returned to the club in 2021 — Real Madrid won the Champions League in 2022 and 2024, with Vinicius Junior playing a starring role. The club also won La Liga titles in 2022 and 2024 under Ancelotti's second tenure.",
+      "The 2018-19 season brought Liverpool's sixth European Cup. They defeated Tottenham Hotspur 2-0 in the Madrid final, with Salah converting an early penalty and Divock Origi adding a late second. Alisson Becker, signed from Roma in 2018, was outstanding in goal. The following 2019-20 season brought the long-awaited Premier League title, clinched with seven games to spare — Liverpool's first league championship in 30 years.",
+      "Messi won the UEFA Champions League with Barcelona in 2006, 2009, 2011, and 2015. The 2009 treble-winning side, managed by Guardiola, also included Samuel Eto'o and Thierry Henry in attack. Henry, who joined Barcelona from Arsenal in 2007, formed a devastating partnership with Messi and Eto'o that terrorized European defenses.",
+      "Ferguson retired in 2013, and the club has struggled to recapture its former glories. Managers including David Moyes, Louis van Gaal, José Mourinho, Ole Gunnar Solskjaer, and Ralf Rangnick all failed to deliver Premier League titles. Erik ten Hag, appointed in 2022, guided United to FA Cup victory in 2024, defeating Manchester City in the final, with Marcus Rashford and Bruno Fernandes playing key roles."
+    ]
+  },
+  "q002": {
+    "answer": "The Premier League was founded in 1992.",
+    "contexts": [
+      "Premier League: The World's Most Watched Football League\n\nThe Premier League, officially known as the Football Association Premier League, is the top level of the English football league system. It was founded in 1992 when the First Division clubs resigned from The Football League to take advantage of a lucrative television rights deal. The league consists of 20 clubs and operates on a system of promotion and relegation with the English Football League.",
+      "Manchester United, under Sir Alex Ferguson, dominated the Premier League's early years, winning the title in the inaugural 1992-93 season and claiming 13 of the first 21 Premier League championships. Ferguson's teams were characterized by pace, physicality, and mental resilience. Eric Cantona, signed from Leeds United, was the catalyst for United's first title. Ryan Giggs, who spent his entire career at Old Trafford spanning 24 years, holds the record for the most Premier League appearances for a single club.",
+      "team_id: t006\nname: Manchester City\ncountry: England\nleague: Premier League\nfounded_year: 1880\nstadium: Etihad Stadium\ntitles_won: UEFA Champions League x1 Premier League x10 FA Cup x7\ncurrent_manager: Pep Guardiola",
+      "The competition began in 1955 as the European Champion Clubs' Cup, often called the European Cup. The format was reorganized and rebranded as the UEFA Champions League in 1992, adopting a group stage format that allowed more clubs to participate and increased revenue through broadcasting rights.",
+      "Liverpool FC: You'll Never Walk Alone\n\nLiverpool Football Club, founded in 1892 in Liverpool, England, is one of the most successful clubs in English and European football history. Playing their home matches at Anfield, the club is known for their passionate support and legendary European nights."
+    ]
+  },
+  "q003": {
+    "answer": "The all-time top scorer in the UEFA Champions League is Cristiano Ronaldo, with over 140 goals scored for Manchester United, Real Madrid, and Juventus.",
+    "contexts": [
+      "Cristiano Ronaldo holds the record as the all-time top scorer in the competition with over 140 goals, having scored for Manchester United, Real Madrid, and Juventus. The competition's current format, which expanded to 36 clubs in 2024, allows for a league phase before the knockout rounds.",
+      "UEFA Champions League: Europe's Premier Club Competition\n\nThe UEFA Champions League, commonly referred to simply as the Champions League, is the premier annual club football competition organized by the Union of European Football Associations (UEFA). It is contested by the top-division football clubs from UEFA's member associations and is the most prestigious and financially lucrative club competition in the world.",
+      "In 2001, Real Madrid paid Juventus £47.2 million for Zidane — the highest transfer fee ever at the time. At the Bernabéu, he delivered perhaps the greatest goal ever scored in a Champions League final. His volley against Bayer Leverkusen in the 2002 final in Glasgow was struck with his weaker left foot and described by many as the perfect football goal. Real Madrid won 2-1, giving Zidane a Champions League winner's medal to add to his World Cup and European Championship.",
+      "Messi won the UEFA Champions League with Barcelona in 2006, 2009, 2011, and 2015. The 2009 treble-winning side, managed by Guardiola, also included Samuel Eto'o and Thierry Henry in attack. Henry, who joined Barcelona from Arsenal in 2007, formed a devastating partnership with Messi and Eto'o that terrorized European defenses.",
+      "player_id: p019\nname: Robert Lewandowski\nnationality: Polish\nbirth_year: 1988\nposition: Forward\ncurrent_team: Barcelona\ncareer_teams: Lech Poznan;Borussia Dortmund;Bayern Munich;Barcelona\nmajor_trophies: UEFA Champions League 2020;Bundesliga x8;La Liga 2023\ngoals_scored: 679"
+    ]
+  },
+  "q004": {
+    "answer": "Brazil has won the FIFA World Cup the most times, with a total of five victories in 1958, 1962, 1970, 1994, and 2002.",
+    "contexts": [
+      "FIFA World Cup: The Greatest Show on Earth\n\nThe FIFA World Cup is the international football championship contested by the national football teams of the member associations of FIFA. Held every four years, it is the most widely viewed and followed sporting event in the world, watched by billions of people across the globe.",
+      "The inaugural World Cup was held in Uruguay in 1930, with the host nation defeating Argentina 4-2 in the final. Brazil is the most successful nation in World Cup history, having won the tournament five times: in 1958, 1962, 1970, 1994, and 2002. The 1958 tournament in Sweden introduced the world to a 17-year-old phenomenon named Pelé, who became the youngest goalscorer in World Cup final history.",
+      "Ronaldo and Messi, the two dominant players of their generation, both participated in multiple World Cups. Ronaldo won the Golden Boot at the 2006 tournament where Portugal finished third. The World Cup, unlike club football, gave these two rivals equal standing — neither has won it more than once.",
+      "Real Madrid has been the most successful club in the history of the competition, winning it a record 15 times. Their five consecutive wins from 1956 to 1960, led by the legendary Alfredo Di Stéfano and Ferenc Puskás, established them as the dominant force of European football. In the modern era, Real Madrid won four titles in five seasons between 2014 and 2018 under managers Carlo Ancelotti and Zinedine Zidane.",
+      "Beckenbauer later won the FIFA World Cup with West Germany as a manager in 1990, becoming one of only three people — along with Didier Deschamps and Mario Zagallo — to win the World Cup as both player and manager."
+    ]
+  },
+  "q005": {
+    "answer": "Manchester United's historic Champions League final comeback in 1999 occurred against Bayern Munich. They were losing 1-0 in injury time when Teddy Sheringham and Ole Gunnar Solskjaer scored two goals in the 90th and 93rd minutes, completing a stunning comeback. This victory made Manchester United the last English club to win the treble.",
+    "contexts": [
+      "The 1999 final is remembered as one of the most dramatic in history. Manchester United, managed by Sir Alex Ferguson, were losing 1-0 to Bayern Munich in injury time when Teddy Sheringham and Ole Gunnar Solskjaer scored two goals in the 90th and 93rd minutes to complete a stunning comeback. United became the last English club to win the treble.",
+      "Liverpool's transition to European giants began with their first UEFA Champions League — then the European Cup — victory in 1977 under Paisley, defeating Borussia Mönchengladbach 3-1 in Rome. They retained the trophy in 1978 against Club Brugge, and won again in 1981 and 1984. During this era, striker Ian Rush was the club's most prolific goalscorer.",
+      "Manchester United: The Red Devils' Legacy\n\nManchester United Football Club, founded in 1878 as Newton Heath LYR Football Club, is one of the most successful and widely supported football clubs in the world. The club, nicknamed the Red Devils, plays its home matches at Old Trafford, known as the \"Theatre of Dreams,\" which has a capacity of approximately 74,000.",
+      "The 2013-14 Champions League victory, known as La Décima, ended a 12-year wait and was achieved under manager Carlo Ancelotti, with Sergio Ramos heading in the equalizer in injury time before Real Madrid won 4-1 in extra time against Atletico Madrid. The following three titles came under Zinedine Zidane, who had previously been a playing legend at the club, scoring one of the greatest goals in Champions League final history against Bayer Leverkusen in 2002.",
+      "Manchester City's rise began with Sheikh Mansour's 2008 acquisition. Roberto Mancini delivered the first title in 44 years in 2012, memorably on goal difference from United with Sergio Aguero's 93:20 goal against QPR. Under Pep Guardiola since 2016, City have become the most dominant side in Premier League history, winning six titles including four consecutive championships from 2021 to 2024. Erling Haaland and Kevin De Bruyne have been the key figures in City's recent dominance."
+    ]
+  },
+  "q006": {
+    "answer": "리오넬 메시(Lionel Messi)는 2009년부터 2012년까지 4년 연속으로 Ballon d'Or(발롱도르) 상을 수상했습니다.",
+    "contexts": [
+      "During the Guardiola era at Barcelona, Messi won four consecutive Ballon d'Or awards from 2009 to 2012, a feat that had never been achieved before. In the 2011-12 season, he scored an astonishing 91 goals in all competitions, a world record that still stands. That same Barcelona side featured Xavi Hernandez and Andres Iniesta, who formed one of the greatest midfield trios in football history.",
+      "Messi won the UEFA Champions League with Barcelona in 2006, 2009, 2011, and 2015. The 2009 treble-winning side, managed by Guardiola, also included Samuel Eto'o and Thierry Henry in attack. Henry, who joined Barcelona from Arsenal in 2007, formed a devastating partnership with Messi and Eto'o that terrorized European defenses.",
+      "player_id: p001\nname: Lionel Messi\nnationality: Argentine\nbirth_year: 1987\nposition: Forward\ncurrent_team: Inter Miami\ncareer_teams: Barcelona;Paris Saint-Germain;Inter Miami\nmajor_trophies: FIFA World Cup 2022;UEFA Champions League 2006 2009 2011 2015;La Liga x10;Copa America 2021\ngoals_scored: 838",
+      "The 2022 World Cup in Qatar saw Lionel Messi finally claim the one trophy that had eluded him. Argentina defeated France 4-2 on penalties after a thrilling 3-3 draw in regular and extra time. Messi scored twice in the final, including a penalty, and Mbappé scored a hat-trick for France. Messi won the Golden Ball as tournament MVP for the second time, having also won it in 2014.",
+      "Cristiano Ronaldo's nine-year tenure from 2009 to 2018 produced an extraordinary 450 goals, four Champions League titles, and two La Liga championships. After Ronaldo's departure, a new generation of players emerged, led by Karim Benzema, Luka Modric, Toni Kroos, and Casemiro."
+    ]
+  },
+  "q007": {
+    "answer": "The stadium known as the \"Theatre of Dreams\" is Old Trafford, the home ground of Manchester United.",
+    "contexts": [
+      "Manchester United: The Red Devils' Legacy\n\nManchester United Football Club, founded in 1878 as Newton Heath LYR Football Club, is one of the most successful and widely supported football clubs in the world. The club, nicknamed the Red Devils, plays its home matches at Old Trafford, known as the \"Theatre of Dreams,\" which has a capacity of approximately 74,000.",
+      "tournament_id: tr015\nname: FIFA Club World Cup\ntype: Club Global\nfrequency: Annual\ncurrent_champion: Real Madrid\nmost_successful_team: Real Madrid\nprize_money_usd: 50000000",
+      "The 2010-11 season saw another Champions League triumph, this time at Wembley Stadium, again against Manchester United. Messi scored a sublime solo goal, dribbling past the United defense before lifting the ball over goalkeeper Edwin van der Sar. That season's Messi, orchestrated by Xavi's passing from deep, is considered by many to be the greatest club performance ever seen.",
+      "team_id: t010\nname: Paris Saint-Germain\ncountry: France\nleague: Ligue 1\nfounded_year: 1970\nstadium: Parc des Princes\ntitles_won: Ligue 1 x12 Coupe de France x15\ncurrent_manager: Luis Enrique",
+      "FC Barcelona: Más Que Un Club\n\nFutbol Club Barcelona, founded in 1899 by Joan Gamper in Barcelona, Catalonia, Spain, is one of the most recognizable and celebrated football clubs in the world. The club, known as Barça or the Blaugrana, plays its home matches at Camp Nou, the largest stadium in Europe with a capacity of over 99,000."
+    ]
+  },
+  "q008": {
+    "answer": "Arsenal's historic achievement in the 2003-04 Premier League season was going the entire 38-game season unbeaten. They won 26 games and drew 12, a feat that remains one of the greatest achievements in Premier League history. This team, managed by Arsène Wenger, is famously known as the \"Invincibles.\"",
+    "contexts": [
+      "Arsenal's \"Invincibles\" team of the 2003-04 season, managed by Arsène Wenger, remains one of the greatest achievements in Premier League history. The Gunners went the entire 38-game season unbeaten, winning 26 and drawing 12 games. Thierry Henry was the talisman, scoring 30 league goals, supported by Patrick Vieira's combative midfield presence and Robert Pires' creative play.",
+      "The most successful era in the club's history came under manager Pep Guardiola, who took charge in 2008 after managing Barcelona B. In his first season, Guardiola's Barcelona won an unprecedented treble — La Liga, Copa del Rey, and UEFA Champions League. The Champions League final was played at the Olympic Stadium in Rome, where Barcelona defeated Manchester United 2-0, with goals from Samuel Eto'o and Lionel Messi",
+      "tournament_id: tr013\nname: FA Cup\ntype: Club Domestic\nfrequency: Annual\ncurrent_champion: Manchester United\nmost_successful_team: Arsenal\nprize_money_usd: 20000000",
+      "Liverpool's transition to European giants began with their first UEFA Champions League — then the European Cup — victory in 1977 under Paisley, defeating Borussia Mönchengladbach 3-1 in Rome. They retained the trophy in 1978 against Club Brugge, and won again in 1981 and 1984. During this era, striker Ian Rush was the club's most prolific goalscorer.",
+      "Chelsea's emergence as a superpower began with Roman Abramovich's purchase of the club in 2003. Manager José Mourinho led Chelsea to back-to-back titles in 2005 and 2006, with the second campaign producing a record 95 points. The Portuguese manager's organizational brilliance and the goals of Didier Drogba underpinned Chelsea's success."
+    ]
+  },
+  "q009": {
+    "answer": "페프 과르디올라와 리오넬 메시의 관계는 감독과 선수로서의 관계입니다. 과르디올라는 바르셀로나 감독 시절 메시를 지도하며, 그 시기에 메시가 2009년부터 2012년까지 4년 연속 발롱도르를 수상하는 등 최고의 전성기를 보냈습니다. 과르디올라가 이끈 바르셀로나 팀은 전술적으로 뛰어난 팀워크를 자랑했으며, 메시를 포함한 선수들이 세계 축구 역사에 큰 족적을 남겼습니다.",
+    "contexts": [
+      "Pep Guardiola: Football's Greatest Tactician\n\nJosep \"Pep\" Guardiola Sala, born on January 18, 1971, in Santpedor, Catalonia, Spain, is widely regarded as the greatest football manager of the modern era. His tactical innovations and relentless pursuit of perfection have reshaped football philosophy across the world.",
+      ". Guardiola's squad was a masterpiece of tactical cohesion: Victor Valdes in goal, Puyol and Gerard Pique in defense, Xavi, Iniesta, and Busquets in midfield, and Messi, Eto'o, and Henry in attack.",
+      "During the Guardiola era at Barcelona, Messi won four consecutive Ballon d'Or awards from 2009 to 2012, a feat that had never been achieved before. In the 2011-12 season, he scored an astonishing 91 goals in all competitions, a world record that still stands. That same Barcelona side featured Xavi Hernandez and Andres Iniesta, who formed one of the greatest midfield trios in football history.",
+      "After 17 years at Barcelona, Messi joined Paris Saint-Germain in 2021 following Barcelona's financial collapse. He spent two seasons in France before making a surprising move to Inter Miami in Major League Soccer in 2023, where he has continued to defy age and inspire the growth of football in North America.\n\nMessi's relationship with his long-time rival Cristiano Ronaldo has defined an era in football. While Ronaldo and Messi played in rival leagues for many years — Messi at Barcelona and Ronaldo at Real Madrid — no player has ever been a direct club teammate of both simultaneously.",
+      "team_id: t006\nname: Manchester City\ncountry: England\nleague: Premier League\nfounded_year: 1880\nstadium: Etihad Stadium\ntitles_won: UEFA Champions League x1 Premier League x10 FA Cup x7\ncurrent_manager: Pep Guardiola"
+    ]
+  },
+  "q010": {
+    "answer": "지네딘 지단(Zinedine Zidane)과 레알 마드리드(Real Madrid)의 연결고리는 선수 시절과 감독 시절 모두에서 매우 깊습니다. \n\n선수로서 지단은 2001년에 유벤투스에서 레알 마드리드로 이적했으며, 당시 역대 최고 이적료인 4,720만 파운드가 지불되었습니다. 그는 2002년 UEFA 챔피언스리그 결승에서 바이어 레버쿠젠을 상대로 왼발로 완벽한 발리 슛 골을 기록하며 팀의 2-1 승리를 이끌었고, 이로써 챔피언스리그 우승을 차지했습니다. 이 시기는 레알 마드리드의 '갈락티코스' 시대였으며, 지단은 호나우두, 데이비드 베컴, 루이스 피구, 로베르토 카를로스 등과 함께 뛰었습니다.\n\n은퇴 후에는 2016년 1월에 레알 마드리드 1군 감독으로 부임하여 탁월한 전술 능력을 발휘, 2016년부터 2018년까지 3년 연속 챔피언스리그 우승이라는 전무후무한 기록을 세웠습니다. 이 기간 동안 루카 모드리치, 토니 크로스, 카세미루로 구성된 중원 삼각편대가 그의 지휘 아래 최고의 활약을 펼쳤습니다.\n\n요약하면, 지단은 레알 마드리드의 전설적인 선수이자 감독으로서 클럽 역사에 큰 족적을 남긴 인물입니다.",
+    "contexts": [
+      "After retiring, Zidane joined Real Madrid's coaching staff and in January 2016 was given the first team. He immediately proved his tactical acumen, guiding Real Madrid to three consecutive Champions League titles in 2016, 2017, and 2018 — a feat never before achieved in the competition's history. Luka Modric, Toni Kroos, and Casemiro formed one of the most dominant midfield trios ever assembled under Zidane's management.",
+      "player_id: p003\nname: Zinedine Zidane\nnationality: French\nbirth_year: 1972\nposition: Midfielder\ncurrent_team: Retired\ncareer_teams: Cannes;Bordeaux;Juventus;Real Madrid\nmajor_trophies: FIFA World Cup 1998;UEFA Champions League 2002;Euro 2000\ngoals_scored: 125",
+      "In 2001, Real Madrid paid Juventus £47.2 million for Zidane — the highest transfer fee ever at the time. At the Bernabéu, he delivered perhaps the greatest goal ever scored in a Champions League final. His volley against Bayer Leverkusen in the 2002 final in Glasgow was struck with his weaker left foot and described by many as the perfect football goal. Real Madrid won 2-1, giving Zidane a Champions League winner's medal to add to his World Cup and European Championship.",
+      "The Galácticos era of the early 2000s saw Real Madrid assemble a constellation of world-class talent: Zinedine Zidane, Ronaldo Nazario, David Beckham, Luis Figo, and Roberto Carlos all wore the white jersey simultaneously. Carlos, the Brazilian left-back renowned for his thunderous long-range shots, was a key figure in the 2002 Champions League triumph.",
+      "After 17 years at Barcelona, Messi joined Paris Saint-Germain in 2021 following Barcelona's financial collapse. He spent two seasons in France before making a surprising move to Inter Miami in Major League Soccer in 2023, where he has continued to defy age and inspire the growth of football in North America.\n\nMessi's relationship with his long-time rival Cristiano Ronaldo has defined an era in football. While Ronaldo and Messi played in rival leagues for many years — Messi at Barcelona and Ronaldo at Real Madrid — no player has ever been a direct club teammate of both simultaneously."
+    ]
+  },
+  "q011": {
+    "answer": "Sir Alex Ferguson는 2003년 18세의 크리스티아누 호날두를 맨체스터 유나이티드로 £12.24 million에 영입한 감독입니다. 그는 호날두가 세계적인 선수로 성장할 잠재력을 즉시 알아보고, 올드 트래포드에서 호날두가 뛰어난 윙어에서 완성된 공격수로 변모하도록 지도했습니다. 또한, 퍼거슨의 지도 아래 호날두는 프리미어리그 3연패와 2008년 UEFA 챔피언스리그 우승을 달성했으며, 그 해 발롱도르를 수상하는 등 그의 경력에 중요한 발전을 이루었습니다.",
+    "contexts": [
+      "Ronaldo began his professional career at Sporting CP in Lisbon before a memorable pre-season friendly against Manchester United in 2003 convinced manager Sir Alex Ferguson to sign the 18-year-old for £12.24 million. Ferguson, who had previously nurtured talents such as Eric Cantona and Ryan Giggs, recognized immediately that Ronaldo had the potential to become world-class. At Old Trafford, Ronaldo transformed from a tricky winger into a complete forward.",
+      "The defining era of Manchester United's modern history was under Sir Alex Ferguson, a Scottish manager who took charge in November 1986. Ferguson's 26-year reign at Old Trafford produced an unprecedented haul of 13 Premier League titles, two UEFA Champions League trophies, five FA Cups, and four League Cups. Ferguson is widely regarded as the greatest manager in football history.",
+      "Under Ferguson's guidance, Ronaldo won three consecutive Premier League titles and the UEFA Champions League in 2008, where Manchester United defeated Chelsea in a penalty shootout in Moscow. Ronaldo scored the opening goal in that final with a powerful header. That same year, he won his first Ballon d'Or award.",
+      "Several players managed by Guardiola at Barcelona later went on to win the Champions League with other clubs, illustrating the lasting impact of his coaching on players' development and understanding of the game.",
+      "player_id: p047\nname: Marcus Rashford\nnationality: English\nbirth_year: 1997\nposition: Forward\ncurrent_team: Manchester United\ncareer_teams: Manchester United\nmajor_trophies: FA Cup 2024\ngoals_scored: 143"
+    ]
+  },
+  "q012": {
+    "answer": "요한 크루이프는 펩 과르디올라의 가장 영향력 있는 멘토입니다. 과르디올라는 선수 시절 FC 바르셀로나에서 크루이프 감독 아래에서 뛰었으며, 크루이프의 \"토털 풋볼\" 철학이 과르디올라의 축구 접근 방식에 깊은 영향을 미쳤습니다.",
+    "contexts": [
+      "Guardiola spent the majority of his playing career at FC Barcelona, where he was a deep-lying midfielder and club captain. As a player, he won six La Liga titles and one UEFA Champions League under manager Johan Cruyff, whose \"Total Football\" philosophy profoundly influenced Guardiola's own approach to the game. Cruyff, the Dutch legend who had played for Ajax and Barcelona, became Guardiola's most influential mentor.",
+      "player_id: p006\nname: Johan Cruyff\nnationality: Dutch\nbirth_year: 1947\nposition: Forward\ncurrent_team: Retired\ncareer_teams: Ajax;Barcelona;Los Angeles Aztecs;Washington Diplomats;Levante\nmajor_trophies: UEFA Champions League 1971 1972 1973;La Liga 1974\ngoals_scored: 293",
+      "Pep Guardiola: Football's Greatest Tactician\n\nJosep \"Pep\" Guardiola Sala, born on January 18, 1971, in Santpedor, Catalonia, Spain, is widely regarded as the greatest football manager of the modern era. His tactical innovations and relentless pursuit of perfection have reshaped football philosophy across the world.",
+      ". Guardiola's squad was a masterpiece of tactical cohesion: Victor Valdes in goal, Puyol and Gerard Pique in defense, Xavi, Iniesta, and Busquets in midfield, and Messi, Eto'o, and Henry in attack.",
+      "team_id: t006\nname: Manchester City\ncountry: England\nleague: Premier League\nfounded_year: 1880\nstadium: Etihad Stadium\ntitles_won: UEFA Champions League x1 Premier League x10 FA Cup x7\ncurrent_manager: Pep Guardiola"
+    ]
+  },
+  "q013": {
+    "answer": "Thierry Henry와 Arsenal은 깊은 연관이 있습니다. Henry는 Arsenal에서 뛰면서 2003-04 시즌 \"Invincibles\" 팀의 핵심 선수로 활약했으며, 그 시즌에 Arsenal은 38경기 무패(26승 12무)를 기록하는 대기록을 세웠습니다. 그는 그 시즌 프리미어리그에서 30골을 넣으며 팀의 공격을 이끌었고, Patrick Vieira와 Robert Pires와 함께 팀의 성공에 크게 기여했습니다. Arsenal은 Henry가 활약한 클럽 중 하나이며, 그의 경력에서 중요한 부분을 차지합니다.",
+    "contexts": [
+      "player_id: p007\nname: Thierry Henry\nnationality: French\nbirth_year: 1977\nposition: Forward\ncurrent_team: Retired\ncareer_teams: Monaco;Juventus;Arsenal;Barcelona;New York Red Bulls\nmajor_trophies: UEFA Champions League 2009;Premier League 2002 2004;La Liga 2009 2010\ngoals_scored: 411",
+      "Arsenal's \"Invincibles\" team of the 2003-04 season, managed by Arsène Wenger, remains one of the greatest achievements in Premier League history. The Gunners went the entire 38-game season unbeaten, winning 26 and drawing 12 games. Thierry Henry was the talisman, scoring 30 league goals, supported by Patrick Vieira's combative midfield presence and Robert Pires' creative play.",
+      "team_id: t013\nname: Arsenal\ncountry: England\nleague: Premier League\nfounded_year: 1886\nstadium: Emirates Stadium\ntitles_won: Premier League x13 FA Cup x14\ncurrent_manager: Mikel Arteta",
+      "Zidane's crowning achievement as a player came at the 1998 FIFA World Cup on home soil in France. He scored twice with headers in the final against Brazil, helping France win their first World Cup. That French side, managed by Aimé Jacquet, also included Thierry Henry, Patrick Vieira, and Marcel Desailly. Two years later, Zidane helped France win Euro 2000 in a tournament where he was named the best player.",
+      "Guardiola left Barcelona in 2012 and took charge of Bayern Munich in 2013, winning the Bundesliga in each of his three seasons. At Bayern, he signed Thiago Alcantara and attempted to introduce his possession-based philosophy to German football, reaching the Champions League semi-finals but never the final."
+    ]
+  },
+  "q014": {
+    "answer": "Roberto Carlos는 2002년 FIFA 월드컵에서 브라질 국가대표팀의 일원으로 활약하며 우승을 차지한 선수입니다. 즉, 그는 2002년 FIFA 월드컵 우승 멤버 중 한 명입니다.",
+    "contexts": [
+      "player_id: p024\nname: Roberto Carlos\nnationality: Brazilian\nbirth_year: 1973\nposition: Defender\ncurrent_team: Retired\ncareer_teams: Palmeiras;Inter Milan;Real Madrid;Fenerbahce;Corinthians;Delhi Dynamos;Akhisarspor\nmajor_trophies: FIFA World Cup 2002;UEFA Champions League 2000 2002;La Liga x4\ngoals_scored: 11",
+      "The Galácticos era of the early 2000s saw Real Madrid assemble a constellation of world-class talent: Zinedine Zidane, Ronaldo Nazario, David Beckham, Luis Figo, and Roberto Carlos all wore the white jersey simultaneously. Carlos, the Brazilian left-back renowned for his thunderous long-range shots, was a key figure in the 2002 Champions League triumph.",
+      "Argentina's triumphs came in 1978, hosted domestically under controversial circumstances, and 1986 in Mexico, where Diego Maradona delivered arguably the greatest individual World Cup performance. Maradona scored five goals and provided five assists, including the infamous \"Hand of God\" goal and the \"Goal of the Century\" — a solo run from his own half — against England in the quarter-finals.",
+      "Beckenbauer later won the FIFA World Cup with West Germany as a manager in 1990, becoming one of only three people — along with Didier Deschamps and Mario Zagallo — to win the World Cup as both player and manager.",
+      "FIFA World Cup: The Greatest Show on Earth\n\nThe FIFA World Cup is the international football championship contested by the national football teams of the member associations of FIFA. Held every four years, it is the most widely viewed and followed sporting event in the world, watched by billions of people across the globe."
+    ]
+  },
+  "q015": {
+    "answer": "제공된 컨텍스트에 따르면, 메시와 호날두는 서로 오랜 라이벌 관계였으며, 메시가 바르셀로나에 있을 때 호날두는 레알 마드리드에 있었습니다. 또한, \"어떤 선수도 메시와 호날두 두 사람과 동시에 같은 클럽에서 뛴 적은 없다\"고 명시되어 있습니다. 따라서 메시와 호날두 두 선수 모두와 팀 동료였던 선수는 없다고 할 수 있습니다.",
+    "contexts": [
+      "After 17 years at Barcelona, Messi joined Paris Saint-Germain in 2021 following Barcelona's financial collapse. He spent two seasons in France before making a surprising move to Inter Miami in Major League Soccer in 2023, where he has continued to defy age and inspire the growth of football in North America.\n\nMessi's relationship with his long-time rival Cristiano Ronaldo has defined an era in football. While Ronaldo and Messi played in rival leagues for many years — Messi at Barcelona and Ronaldo at Real Madrid — no player has ever been a direct club teammate of both simultaneously.",
+      "Ronaldo and Messi, the two dominant players of their generation, both participated in multiple World Cups. Ronaldo won the Golden Boot at the 2006 tournament where Portugal finished third. The World Cup, unlike club football, gave these two rivals equal standing — neither has won it more than once.",
+      "The Galácticos era of the early 2000s saw Real Madrid assemble a constellation of world-class talent: Zinedine Zidane, Ronaldo Nazario, David Beckham, Luis Figo, and Roberto Carlos all wore the white jersey simultaneously. Carlos, the Brazilian left-back renowned for his thunderous long-range shots, was a key figure in the 2002 Champions League triumph.",
+      "Several players managed by Guardiola at Barcelona later went on to win the Champions League with other clubs, illustrating the lasting impact of his coaching on players' development and understanding of the game.",
+      "player_id: p050\nname: Toni Kroos\nnationality: German\nbirth_year: 1990\nposition: Midfielder\ncurrent_team: Retired\ncareer_teams: Bayern Munich;Bayer Leverkusen;Real Madrid\nmajor_trophies: UEFA Champions League 2013 2016 2017 2018 2024;Bundesliga x3;La Liga x3\ngoals_scored: 55"
+    ]
+  },
+  "q016": {
+    "answer": "제공된 컨텍스트에 따르면, 페프 과르디올라가 바르셀로나에서 지도한 여러 선수들이 이후 다른 클럽에서 UEFA 챔피언스리그 우승을 차지한 것으로 나와 있습니다. 하지만 구체적으로 어떤 선수들이 그에 해당하는지는 명시되어 있지 않습니다. 따라서 정확한 선수 명단을 제공하기 어렵습니다.",
+    "contexts": [
+      "Several players managed by Guardiola at Barcelona later went on to win the Champions League with other clubs, illustrating the lasting impact of his coaching on players' development and understanding of the game.",
+      "Messi won the UEFA Champions League with Barcelona in 2006, 2009, 2011, and 2015. The 2009 treble-winning side, managed by Guardiola, also included Samuel Eto'o and Thierry Henry in attack. Henry, who joined Barcelona from Arsenal in 2007, formed a devastating partnership with Messi and Eto'o that terrorized European defenses.",
+      "In 2016, Guardiola moved to Manchester City, where he has overseen the most dominant period in the club's history. City won six Premier League titles in seven seasons, and in 2023, claimed the treble — Premier League, FA Cup, and UEFA Champions League — the first English club to achieve this in the competition's modern era. The Champions League final against Inter Milan was won with a single Rodri goal. Erling Haaland, signed from Borussia Dortmund in 2022, scored an astonishing 52 goals in his debut Premier League season, a record",
+      "Pep Guardiola managed Bayern from 2013 to 2016, winning the Bundesliga in each of his three seasons and introducing a more possession-oriented style. However, despite reaching the Champions League semi-finals three times, Guardiola could not deliver European glory to Munich. His successor Carlo Ancelotti won the Bundesliga title before being sacked.",
+      "team_id: t006\nname: Manchester City\ncountry: England\nleague: Premier League\nfounded_year: 1880\nstadium: Etihad Stadium\ntitles_won: UEFA Champions League x1 Premier League x10 FA Cup x7\ncurrent_manager: Pep Guardiola"
+    ]
+  },
+  "q017": {
+    "answer": "컨텍스트에 따르면, 프란츠 베켄바워(Franz Beckenbauer)는 선수와 감독 모두로서 FIFA 월드컵을 우승한 사례가 언급되어 있지만, 챔피언스리그(유러피언 컵) 우승을 선수와 감독 모두로 달성했다는 내용은 없습니다.\n\n따라서, 챔피언스리그를 선수와 감독 모두로 우승한 매니저에 대한 정보는 제공된 컨텍스트에 없습니다.",
+    "contexts": [
+      "Several players managed by Guardiola at Barcelona later went on to win the Champions League with other clubs, illustrating the lasting impact of his coaching on players' development and understanding of the game.",
+      "Beckenbauer later won the FIFA World Cup with West Germany as a manager in 1990, becoming one of only three people — along with Didier Deschamps and Mario Zagallo — to win the World Cup as both player and manager.",
+      "The 2013-14 Champions League victory, known as La Décima, ended a 12-year wait and was achieved under manager Carlo Ancelotti, with Sergio Ramos heading in the equalizer in injury time before Real Madrid won 4-1 in extra time against Atletico Madrid. The following three titles came under Zinedine Zidane, who had previously been a playing legend at the club, scoring one of the greatest goals in Champions League final history against Bayer Leverkusen in 2002.",
+      "Liverpool dominated English football in the 1970s and 1980s under a series of exceptional managers. Bill Shankly established the club's identity and winning mentality before his retirement in 1974. Bob Paisley, his successor, became arguably the most successful manager in British football history, winning three European Cups, six First Division titles, and three League Cups in nine years",
+      "Ferguson retired in 2013, and the club has struggled to recapture its former glories. Managers including David Moyes, Louis van Gaal, José Mourinho, Ole Gunnar Solskjaer, and Ralf Rangnick all failed to deliver Premier League titles. Erik ten Hag, appointed in 2022, guided United to FA Cup victory in 2024, defeating Manchester City in the final, with Marcus Rashford and Bruno Fernandes playing key roles."
+    ]
+  },
+  "q018": {
+    "answer": "제공된 컨텍스트에 따르면, 지네딘 지단(Zinedine Zidane)은 챔피언스리그 결승에서 골을 넣은 선수였고, 이후 레알 마드리드 감독으로서 챔피언스리그 우승을 이끌었습니다. 따라서 지단이 해당 조건에 부합하는 선수입니다.",
+    "contexts": [
+      "Several players managed by Guardiola at Barcelona later went on to win the Champions League with other clubs, illustrating the lasting impact of his coaching on players' development and understanding of the game.",
+      "The 2013-14 Champions League victory, known as La Décima, ended a 12-year wait and was achieved under manager Carlo Ancelotti, with Sergio Ramos heading in the equalizer in injury time before Real Madrid won 4-1 in extra time against Atletico Madrid. The following three titles came under Zinedine Zidane, who had previously been a playing legend at the club, scoring one of the greatest goals in Champions League final history against Bayer Leverkusen in 2002.",
+      "The 1999 final is remembered as one of the most dramatic in history. Manchester United, managed by Sir Alex Ferguson, were losing 1-0 to Bayern Munich in injury time when Teddy Sheringham and Ole Gunnar Solskjaer scored two goals in the 90th and 93rd minutes to complete a stunning comeback. United became the last English club to win the treble.",
+      "Liverpool's transition to European giants began with their first UEFA Champions League — then the European Cup — victory in 1977 under Paisley, defeating Borussia Mönchengladbach 3-1 in Rome. They retained the trophy in 1978 against Club Brugge, and won again in 1981 and 1984. During this era, striker Ian Rush was the club's most prolific goalscorer.",
+      "Beckenbauer later won the FIFA World Cup with West Germany as a manager in 1990, becoming one of only three people — along with Didier Deschamps and Mario Zagallo — to win the World Cup as both player and manager."
+    ]
+  },
+  "q019": {
+    "answer": "컨텍스트에 따르면, 브라질 선수 카푸(Cafu)가 1994년과 2002년에 FIFA 월드컵에서 우승했습니다.",
+    "contexts": [
+      "Brazil's 1970 side, featuring Pelé, Jairzinho, Tostão, and Rivelino, is widely considered the greatest national team ever assembled. Captain Carlos Alberto scored arguably the greatest goal in World Cup history in the final against Italy, finishing off a sweeping team move.\n\nGermany and Italy are joint second with four titles each. Germany's 2014 triumph in Brazil, sealed by Mario Götze's extra-time winner against Argentina, was particularly notable for their 7-1 semifinal demolition of hosts Brazil — a result that shocked the world and is still referred to as the \"Mineirazo\" in Brazil.",
+      "player_id: p023\nname: Cafu\nnationality: Brazilian\nbirth_year: 1970\nposition: Defender\ncurrent_team: Retired\ncareer_teams: Sao Paulo;Juventude;Porto;Roma;AC Milan\nmajor_trophies: FIFA World Cup 1994 2002;Serie A 2004\ngoals_scored: 5",
+      "Ronaldo and Messi, the two dominant players of their generation, both participated in multiple World Cups. Ronaldo won the Golden Boot at the 2006 tournament where Portugal finished third. The World Cup, unlike club football, gave these two rivals equal standing — neither has won it more than once.",
+      "Beckenbauer later won the FIFA World Cup with West Germany as a manager in 1990, becoming one of only three people — along with Didier Deschamps and Mario Zagallo — to win the World Cup as both player and manager.",
+      "Zidane's crowning achievement as a player came at the 1998 FIFA World Cup on home soil in France. He scored twice with headers in the final against Brazil, helping France win their first World Cup. That French side, managed by Aimé Jacquet, also included Thierry Henry, Patrick Vieira, and Marcel Desailly. Two years later, Zidane helped France win Euro 2000 in a tournament where he was named the best player."
+    ]
+  },
+  "q020": {
+    "answer": "제공된 컨텍스트에 따르면, 리오넬 메시가 첫 번째 발롱도르를 수상한 시즌은 2009년입니다. 2009년 UEFA 챔피언스리그 우승팀은 펩 과르디올라가 감독을 맡은 바르셀로나입니다. 따라서 메시가 첫 발롱도르를 받은 시즌에 챔피언스리그 우승을 차지한 팀의 감독은 펩 과르디올라입니다.",
+    "contexts": [
+      "During the Guardiola era at Barcelona, Messi won four consecutive Ballon d'Or awards from 2009 to 2012, a feat that had never been achieved before. In the 2011-12 season, he scored an astonishing 91 goals in all competitions, a world record that still stands. That same Barcelona side featured Xavi Hernandez and Andres Iniesta, who formed one of the greatest midfield trios in football history.",
+      "Several players managed by Guardiola at Barcelona later went on to win the Champions League with other clubs, illustrating the lasting impact of his coaching on players' development and understanding of the game.",
+      "Under Ferguson's guidance, Ronaldo won three consecutive Premier League titles and the UEFA Champions League in 2008, where Manchester United defeated Chelsea in a penalty shootout in Moscow. Ronaldo scored the opening goal in that final with a powerful header. That same year, he won his first Ballon d'Or award.",
+      "The 2013-14 Champions League victory, known as La Décima, ended a 12-year wait and was achieved under manager Carlo Ancelotti, with Sergio Ramos heading in the equalizer in injury time before Real Madrid won 4-1 in extra time against Atletico Madrid. The following three titles came under Zinedine Zidane, who had previously been a playing legend at the club, scoring one of the greatest goals in Champions League final history against Bayer Leverkusen in 2002.",
+      "player_id: p001\nname: Lionel Messi\nnationality: Argentine\nbirth_year: 1987\nposition: Forward\ncurrent_team: Inter Miami\ncareer_teams: Barcelona;Paris Saint-Germain;Inter Miami\nmajor_trophies: FIFA World Cup 2022;UEFA Champions League 2006 2009 2011 2015;La Liga x10;Copa America 2021\ngoals_scored: 838"
+    ]
+  },
+  "q021": {
+    "answer": "제 지식 베이스에 해당 내용이 없어 정확한 답변이 어렵습니다.",
+    "contexts": [
+      "Argentina's triumphs came in 1978, hosted domestically under controversial circumstances, and 1986 in Mexico, where Diego Maradona delivered arguably the greatest individual World Cup performance. Maradona scored five goals and provided five assists, including the infamous \"Hand of God\" goal and the \"Goal of the Century\" — a solo run from his own half — against England in the quarter-finals.",
+      "player_id: p028\nname: Diego Maradona\nnationality: Argentine\nbirth_year: 1960\nposition: Midfielder\ncurrent_team: Retired\ncareer_teams: Argentinos Juniors;Boca Juniors;Barcelona;Napoli;Sevilla\nmajor_trophies: FIFA World Cup 1986;Serie A 1987 1990\ngoals_scored: 259",
+      "tournament_id: tr010\nname: Copa America\ntype: National Continental\nfrequency: Quadrennial\ncurrent_champion: Argentina\nmost_successful_team: Uruguay\nprize_money_usd: 60000000",
+      "Beckenbauer later won the FIFA World Cup with West Germany as a manager in 1990, becoming one of only three people — along with Didier Deschamps and Mario Zagallo — to win the World Cup as both player and manager.",
+      "player_id: p023\nname: Cafu\nnationality: Brazilian\nbirth_year: 1970\nposition: Defender\ncurrent_team: Retired\ncareer_teams: Sao Paulo;Juventude;Porto;Roma;AC Milan\nmajor_trophies: FIFA World Cup 1994 2002;Serie A 2004\ngoals_scored: 5"
+    ]
+  },
+  "q022": {
+    "answer": "제 지식 베이스에 해당 내용이 없어 정확한 답변이 어렵습니다.",
+    "contexts": [
+      "During the Guardiola era at Barcelona, Messi won four consecutive Ballon d'Or awards from 2009 to 2012, a feat that had never been achieved before. In the 2011-12 season, he scored an astonishing 91 goals in all competitions, a world record that still stands. That same Barcelona side featured Xavi Hernandez and Andres Iniesta, who formed one of the greatest midfield trios in football history.",
+      "Brazil's 1970 side, featuring Pelé, Jairzinho, Tostão, and Rivelino, is widely considered the greatest national team ever assembled. Captain Carlos Alberto scored arguably the greatest goal in World Cup history in the final against Italy, finishing off a sweeping team move.\n\nGermany and Italy are joint second with four titles each. Germany's 2014 triumph in Brazil, sealed by Mario Götze's extra-time winner against Argentina, was particularly notable for their 7-1 semifinal demolition of hosts Brazil — a result that shocked the world and is still referred to as the \"Mineirazo\" in Brazil.",
+      "tournament_id: tr002\nname: FIFA World Cup\ntype: National Continental\nfrequency: Quadrennial\ncurrent_champion: Argentina\nmost_successful_team: Brazil\nprize_money_usd: 600000000",
+      "At international level, Ronaldo led Portugal to victory at Euro 2016, scoring the winning goal in the semi-final before going off injured in the final — a match Portugal won against France with a goal from Eder. He is the all-time top scorer in international football history with over 130 goals.",
+      "Real Madrid: The Most Successful Club in European Football\n\nReal Madrid Club de Fútbol, founded in 1902 in Madrid, Spain, is the most decorated football club in the history of European competition. The club, known as Los Blancos or Los Merengues, plays its home matches at the Santiago Bernabéu stadium and competes in La Liga, the top tier of Spanish football."
+    ]
+  },
+  "q023": {
+    "answer": "Roberto Carlos played for four clubs after leaving Real Madrid: Fenerbahce, Corinthians, Delhi Dynamos, and Akhisarspor.",
+    "contexts": [
+      "player_id: p024\nname: Roberto Carlos\nnationality: Brazilian\nbirth_year: 1973\nposition: Defender\ncurrent_team: Retired\ncareer_teams: Palmeiras;Inter Milan;Real Madrid;Fenerbahce;Corinthians;Delhi Dynamos;Akhisarspor\nmajor_trophies: FIFA World Cup 2002;UEFA Champions League 2000 2002;La Liga x4\ngoals_scored: 11",
+      "The Galácticos era of the early 2000s saw Real Madrid assemble a constellation of world-class talent: Zinedine Zidane, Ronaldo Nazario, David Beckham, Luis Figo, and Roberto Carlos all wore the white jersey simultaneously. Carlos, the Brazilian left-back renowned for his thunderous long-range shots, was a key figure in the 2002 Champions League triumph.",
+      "In 2009, Ronaldo moved to Real Madrid for a then-world record fee of £80 million. At the Bernabeu, he became the club's all-time top scorer, netting 450 goals in 438 appearances. He won four UEFA Champions League titles with Real Madrid — in 2014, 2016, 2017, and 2018. The 2016 and 2017 victories were achieved under the management of Zinedine Zidane, who had joined the coaching staff after retiring as a player. Zidane himself had won the Champions League as a player with Real Madrid in 2002.",
+      "player_id: p039\nname: Vinicius Junior\nnationality: Brazilian\nbirth_year: 2000\nposition: Forward\ncurrent_team: Real Madrid\ncareer_teams: Flamengo;Real Madrid\nmajor_trophies: UEFA Champions League 2022 2024;La Liga 2022 2024\ngoals_scored: 125",
+      "team_id: t001\nname: Real Madrid\ncountry: Spain\nleague: La Liga\nfounded_year: 1902\nstadium: Santiago Bernabeu\ntitles_won: UEFA Champions League x15 La Liga x35 Copa del Rey x20\ncurrent_manager: Carlo Ancelotti"
+    ]
+  },
+  "q024": {
+    "answer": "Real Madrid는 UEFA 챔피언스리그에서 총 15회 우승을 차지했습니다.",
+    "contexts": [
+      "Real Madrid's dominance in the UEFA Champions League is unrivaled. The club has won the competition a record 15 times, including five consecutive finals between 1956 and 1960 in the tournament's early era. In the modern era, their most remarkable period came between 2014 and 2018, when they won the Champions League four times in five seasons.",
+      "In 2009, Ronaldo moved to Real Madrid for a then-world record fee of £80 million. At the Bernabeu, he became the club's all-time top scorer, netting 450 goals in 438 appearances. He won four UEFA Champions League titles with Real Madrid — in 2014, 2016, 2017, and 2018. The 2016 and 2017 victories were achieved under the management of Zinedine Zidane, who had joined the coaching staff after retiring as a player. Zidane himself had won the Champions League as a player with Real Madrid in 2002.",
+      "team_id: t001\nname: Real Madrid\ncountry: Spain\nleague: La Liga\nfounded_year: 1902\nstadium: Santiago Bernabeu\ntitles_won: UEFA Champions League x15 La Liga x35 Copa del Rey x20\ncurrent_manager: Carlo Ancelotti",
+      "The 2018-19 season brought Liverpool's sixth European Cup. They defeated Tottenham Hotspur 2-0 in the Madrid final, with Salah converting an early penalty and Divock Origi adding a late second. Alisson Becker, signed from Roma in 2018, was outstanding in goal. The following 2019-20 season brought the long-awaited Premier League title, clinched with seven games to spare — Liverpool's first league championship in 30 years.",
+      "Messi won the UEFA Champions League with Barcelona in 2006, 2009, 2011, and 2015. The 2009 treble-winning side, managed by Guardiola, also included Samuel Eto'o and Thierry Henry in attack. Henry, who joined Barcelona from Arsenal in 2007, formed a devastating partnership with Messi and Eto'o that terrorized European defenses."
+    ]
+  },
+  "q025": {
+    "answer": "크리스티아누 호날두는 그의 경력 동안 총 5개의 서로 다른 팀에서 뛰었습니다. 그 팀들은 Sporting CP, Manchester United, Real Madrid, Juventus, Al Nassr입니다.",
+    "contexts": [
+      "player_id: p002\nname: Cristiano Ronaldo\nnationality: Portuguese\nbirth_year: 1985\nposition: Forward\ncurrent_team: Al Nassr\ncareer_teams: Sporting CP;Manchester United;Real Madrid;Juventus;Al Nassr\nmajor_trophies: UEFA Champions League 2008 2014 2016 2017 2018;Premier League x3;La Liga x2;Euro 2016\ngoals_scored: 893",
+      "Cristiano Ronaldo's nine-year tenure from 2009 to 2018 produced an extraordinary 450 goals, four Champions League titles, and two La Liga championships. After Ronaldo's departure, a new generation of players emerged, led by Karim Benzema, Luka Modric, Toni Kroos, and Casemiro.",
+      "After nine years at Real Madrid, Ronaldo joined Juventus in 2018, hoping to win the Champions League for an unprecedented sixth time with a third different club. Despite two Serie A titles, the Champions League eluded him at Juventus. He returned briefly to Manchester United in 2021 before joining Al Nassr in Saudi Arabia in 2023, becoming the highest-paid player in football history.",
+      "Cristiano Ronaldo holds the record as the all-time top scorer in the competition with over 140 goals, having scored for Manchester United, Real Madrid, and Juventus. The competition's current format, which expanded to 36 clubs in 2024, allows for a league phase before the knockout rounds.",
+      "Ronaldo began his professional career at Sporting CP in Lisbon before a memorable pre-season friendly against Manchester United in 2003 convinced manager Sir Alex Ferguson to sign the 18-year-old for £12.24 million. Ferguson, who had previously nurtured talents such as Eric Cantona and Ryan Giggs, recognized immediately that Ronaldo had the potential to become world-class. At Old Trafford, Ronaldo transformed from a tricky winger into a complete forward."
+    ]
+  },
+  "q026": {
+    "answer": "맨체스터 유나이티드는 알렉스 퍼거슨 감독 재임 기간 동안 총 13개의 프리미어리그 타이틀을 획득했습니다.",
+    "contexts": [
+      "The defining era of Manchester United's modern history was under Sir Alex Ferguson, a Scottish manager who took charge in November 1986. Ferguson's 26-year reign at Old Trafford produced an unprecedented haul of 13 Premier League titles, two UEFA Champions League trophies, five FA Cups, and four League Cups. Ferguson is widely regarded as the greatest manager in football history.",
+      "Under Ferguson's guidance, Ronaldo won three consecutive Premier League titles and the UEFA Champions League in 2008, where Manchester United defeated Chelsea in a penalty shootout in Moscow. Ronaldo scored the opening goal in that final with a powerful header. That same year, he won his first Ballon d'Or award.",
+      "tournament_id: tr003\nname: Premier League\ntype: Club Domestic\nfrequency: Annual\ncurrent_champion: Manchester City\nmost_successful_team: Manchester United\nprize_money_usd: 3000000000",
+      "Liverpool's only Premier League title came in the 2019-20 season under Jürgen Klopp, who had transformed the club from a middle-table side into champions of England and Europe. The German manager's high-energy \"Gegenpressing\" style, embodied by Mohamed Salah, Roberto Firmino, and Sadio Mané, captured the imagination of football fans worldwide.",
+      "player_id: p048\nname: Bruno Fernandes\nnationality: Portuguese\nbirth_year: 1994\nposition: Midfielder\ncurrent_team: Manchester United\ncareer_teams: Novara;Udinese;Sampdoria;Sporting CP;Manchester United\nmajor_trophies: FA Cup 2024\ngoals_scored: 123"
+    ]
+  },
+  "q027": {
+    "answer": "제 지식 베이스에 해당 내용이 없어 정확한 답변이 어렵습니다.",
+    "contexts": [
+      "Messi won the UEFA Champions League with Barcelona in 2006, 2009, 2011, and 2015. The 2009 treble-winning side, managed by Guardiola, also included Samuel Eto'o and Thierry Henry in attack. Henry, who joined Barcelona from Arsenal in 2007, formed a devastating partnership with Messi and Eto'o that terrorized European defenses.",
+      "Robert Lewandowski's eight seasons at Bayern from 2014 to 2022 were marked by extraordinary consistency. He became the club's all-time top scorer and in the 2020-21 season broke Gerd Müller's 49-year-old Bundesliga record by scoring 41 goals in a single season. The pandemic-affected 2019-20 season saw Bayern win the Champions League under Hans-Dieter Flick, with Lewandowski, Thomas Müller, and Serge Gnabry starring in a 8-2 quarter-final demolition of Barcelona.",
+      "tournament_id: tr005\nname: Bundesliga\ntype: Club Domestic\nfrequency: Annual\ncurrent_champion: Bayer Leverkusen\nmost_successful_team: Bayern Munich\nprize_money_usd: 900000000",
+      "In 2001, Real Madrid paid Juventus £47.2 million for Zidane — the highest transfer fee ever at the time. At the Bernabéu, he delivered perhaps the greatest goal ever scored in a Champions League final. His volley against Bayer Leverkusen in the 2002 final in Glasgow was struck with his weaker left foot and described by many as the perfect football goal. Real Madrid won 2-1, giving Zidane a Champions League winner's medal to add to his World Cup and European Championship.",
+      "player_id: p008\nname: Ronaldo Nazario\nnationality: Brazilian\nbirth_year: 1976\nposition: Forward\ncurrent_team: Retired\ncareer_teams: Cruzeiro;PSV Eindhoven;Barcelona;Inter Milan;Real Madrid;AC Milan;Corinthians\nmajor_trophies: FIFA World Cup 1994 2002;UEFA Champions League 1998\ngoals_scored: 352"
+    ]
+  },
+  "q028": {
+    "answer": "리오넬 메시가 2011-12 시즌에 기록한 골 수는 91골로, 이는 모든 대회를 통틀어 세운 세계 기록입니다. 이 시즌에 메시가 4년 연속 발롱도르(2009~2012)를 수상하는 데 큰 역할을 했습니다.",
+    "contexts": [
+      "During the Guardiola era at Barcelona, Messi won four consecutive Ballon d'Or awards from 2009 to 2012, a feat that had never been achieved before. In the 2011-12 season, he scored an astonishing 91 goals in all competitions, a world record that still stands. That same Barcelona side featured Xavi Hernandez and Andres Iniesta, who formed one of the greatest midfield trios in football history.",
+      "The 2022 World Cup in Qatar saw Lionel Messi finally claim the one trophy that had eluded him. Argentina defeated France 4-2 on penalties after a thrilling 3-3 draw in regular and extra time. Messi scored twice in the final, including a penalty, and Mbappé scored a hat-trick for France. Messi won the Golden Ball as tournament MVP for the second time, having also won it in 2014.",
+      "Lionel Messi: The Greatest of All Time\n\nLionel Andrés Messi, born on June 24, 1987, in Rosario, Argentina, is widely considered the greatest football player of all time. His extraordinary career spans over two decades, during which he has rewritten the record books and won every major honor the sport has to offer.",
+      "Ronaldo and Messi, the two dominant players of their generation, both participated in multiple World Cups. Ronaldo won the Golden Boot at the 2006 tournament where Portugal finished third. The World Cup, unlike club football, gave these two rivals equal standing — neither has won it more than once.",
+      "player_id: p002\nname: Cristiano Ronaldo\nnationality: Portuguese\nbirth_year: 1985\nposition: Forward\ncurrent_team: Al Nassr\ncareer_teams: Sporting CP;Manchester United;Real Madrid;Juventus;Al Nassr\nmajor_trophies: UEFA Champions League 2008 2014 2016 2017 2018;Premier League x3;La Liga x2;Euro 2016\ngoals_scored: 893"
+    ]
+  },
+  "q029": {
+    "answer": "세르히오 아구에로의 2012년 93분 20초 골은 맨체스터 시티가 44년 만에 프리미어리그 우승을 차지하는 데 결정적인 순간이었습니다. 이 골은 QPR과의 경기에서 나왔으며, 맨체스터 유나이티드와 골 득실차로 우승 경쟁을 벌이던 시티에게 극적인 승리를 안겨주었습니다.",
+    "contexts": [
+      "Manchester City's rise began with Sheikh Mansour's 2008 acquisition. Roberto Mancini delivered the first title in 44 years in 2012, memorably on goal difference from United with Sergio Aguero's 93:20 goal against QPR. Under Pep Guardiola since 2016, City have become the most dominant side in Premier League history, winning six titles including four consecutive championships from 2021 to 2024. Erling Haaland and Kevin De Bruyne have been the key figures in City's recent dominance.",
+      "The 2010-11 season saw another Champions League triumph, this time at Wembley Stadium, again against Manchester United. Messi scored a sublime solo goal, dribbling past the United defense before lifting the ball over goalkeeper Edwin van der Sar. That season's Messi, orchestrated by Xavi's passing from deep, is considered by many to be the greatest club performance ever seen.",
+      "player_id: p041\nname: Phil Foden\nnationality: English\nbirth_year: 2000\nposition: Midfielder\ncurrent_team: Manchester City\ncareer_teams: Manchester City\nmajor_trophies: UEFA Champions League 2023;Premier League x4\ngoals_scored: 105",
+      "tournament_id: tr003\nname: Premier League\ntype: Club Domestic\nfrequency: Annual\ncurrent_champion: Manchester City\nmost_successful_team: Manchester United\nprize_money_usd: 3000000000",
+      "player_id: p033\nname: Luis Suarez\nnationality: Uruguayan\nbirth_year: 1987\nposition: Forward\ncurrent_team: Retired\ncareer_teams: Nacional;Groningen;Ajax;Liverpool;Barcelona;Atletico Madrid;Nacional\nmajor_trophies: UEFA Champions League 2015;Premier League 2020;La Liga 2015 2016\ngoals_scored: 500"
+    ]
+  },
+  "q030": {
+    "answer": "제 지식 베이스에 해당 내용이 없어 정확한 답변이 어렵습니다.",
+    "contexts": [
+      "team_id: t016\nname: Porto\ncountry: Portugal\nleague: Primeira Liga\nfounded_year: 1893\nstadium: Estadio do Dragao\ntitles_won: UEFA Champions League x2 Primeira Liga x30\ncurrent_manager: Vitor Bruno",
+      "Liverpool's transition to European giants began with their first UEFA Champions League — then the European Cup — victory in 1977 under Paisley, defeating Borussia Mönchengladbach 3-1 in Rome. They retained the trophy in 1978 against Club Brugge, and won again in 1981 and 1984. During this era, striker Ian Rush was the club's most prolific goalscorer.",
+      "The Galácticos era of the early 2000s saw Real Madrid assemble a constellation of world-class talent: Zinedine Zidane, Ronaldo Nazario, David Beckham, Luis Figo, and Roberto Carlos all wore the white jersey simultaneously. Carlos, the Brazilian left-back renowned for his thunderous long-range shots, was a key figure in the 2002 Champions League triumph.",
+      "Messi won the UEFA Champions League with Barcelona in 2006, 2009, 2011, and 2015. The 2009 treble-winning side, managed by Guardiola, also included Samuel Eto'o and Thierry Henry in attack. Henry, who joined Barcelona from Arsenal in 2007, formed a devastating partnership with Messi and Eto'o that terrorized European defenses.",
+      "At international level, Ronaldo led Portugal to victory at Euro 2016, scoring the winning goal in the semi-final before going off injured in the final — a match Portugal won against France with a goal from Eder. He is the all-time top scorer in international football history with over 130 goals."
+    ]
+  }
+}

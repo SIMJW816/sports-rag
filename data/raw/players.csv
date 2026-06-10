@@ -1,0 +1,51 @@
+player_id,name,nationality,birth_year,position,current_team,career_teams,major_trophies,goals_scored
+p001,Lionel Messi,Argentine,1987,Forward,Inter Miami,Barcelona;Paris Saint-Germain;Inter Miami,FIFA World Cup 2022;UEFA Champions League 2006 2009 2011 2015;La Liga x10;Copa America 2021,838
+p002,Cristiano Ronaldo,Portuguese,1985,Forward,Al Nassr,Sporting CP;Manchester United;Real Madrid;Juventus;Al Nassr,UEFA Champions League 2008 2014 2016 2017 2018;Premier League x3;La Liga x2;Euro 2016,893
+p003,Zinedine Zidane,French,1972,Midfielder,Retired,Cannes;Bordeaux;Juventus;Real Madrid,FIFA World Cup 1998;UEFA Champions League 2002;Euro 2000,125
+p004,Ronaldinho,Brazilian,1980,Forward,Retired,Gremio;PSG;Barcelona;AC Milan;Flamengo;Atletico Mineiro,FIFA World Cup 2002;UEFA Champions League 2006;La Liga 2005 2006,198
+p005,Pele,Brazilian,1940,Forward,Retired,Santos;New York Cosmos,FIFA World Cup 1958 1962 1970,767
+p006,Johan Cruyff,Dutch,1947,Forward,Retired,Ajax;Barcelona;Los Angeles Aztecs;Washington Diplomats;Levante,UEFA Champions League 1971 1972 1973;La Liga 1974,293
+p007,Thierry Henry,French,1977,Forward,Retired,Monaco;Juventus;Arsenal;Barcelona;New York Red Bulls,UEFA Champions League 2009;Premier League 2002 2004;La Liga 2009 2010,411
+p008,Ronaldo Nazario,Brazilian,1976,Forward,Retired,Cruzeiro;PSV Eindhoven;Barcelona;Inter Milan;Real Madrid;AC Milan;Corinthians,FIFA World Cup 1994 2002;UEFA Champions League 1998,352
+p009,Luka Modric,Croatian,1985,Midfielder,Real Madrid,Dinamo Zagreb;Tottenham Hotspur;Real Madrid,UEFA Champions League 2014 2016 2017 2018 2022 2024;FIFA World Cup Runner-up 2018,40
+p010,Sergio Ramos,Spanish,1986,Defender,Retired,Sevilla;Real Madrid;Paris Saint-Germain,UEFA Champions League 2014 2016 2017 2018;FIFA World Cup 2010;Euro 2008 2012,101
+p011,Xavi Hernandez,Spanish,1980,Midfielder,Retired,Barcelona;Al Sadd,UEFA Champions League 2006 2009 2011 2015;FIFA World Cup 2010;Euro 2008 2012;La Liga x8,85
+p012,Andres Iniesta,Spanish,1984,Midfielder,Retired,Barcelona;Vissel Kobe;Emirates Club,UEFA Champions League 2006 2009 2011 2015;FIFA World Cup 2010;Euro 2008 2012,57
+p013,Neymar,Brazilian,1992,Forward,Al Hilal,Santos;Barcelona;Paris Saint-Germain;Al Hilal,UEFA Champions League 2015;Copa America 2019;La Liga 2015,449
+p014,Kylian Mbappe,French,2003,Forward,Real Madrid,AS Monaco;Paris Saint-Germain;Real Madrid,FIFA World Cup 2018;Ligue 1 x6,370
+p015,Erling Haaland,Norwegian,2000,Forward,Manchester City,Molde;Red Bull Salzburg;Borussia Dortmund;Manchester City,UEFA Champions League 2023;Premier League 2022 2023 2024,300
+p016,Virgil van Dijk,Dutch,1991,Defender,Liverpool,Groningen;Celtic;Southampton;Liverpool,UEFA Champions League 2019;Premier League 2020,51
+p017,Kevin De Bruyne,Belgian,1991,Midfielder,Manchester City,Genk;Chelsea;Werder Bremen;VfL Wolfsburg;Manchester City,UEFA Champions League 2023;Premier League x6,115
+p018,Mohamed Salah,Egyptian,1992,Forward,Liverpool,Basel;Chelsea;Fiorentina;Roma;Liverpool,UEFA Champions League 2019;Premier League 2020,350
+p019,Robert Lewandowski,Polish,1988,Forward,Barcelona,Lech Poznan;Borussia Dortmund;Bayern Munich;Barcelona,UEFA Champions League 2020;Bundesliga x8;La Liga 2023,679
+p020,Harry Kane,English,1993,Forward,Bayern Munich,Tottenham Hotspur;Bayern Munich,Bundesliga 2024,291
+p021,Gianluigi Buffon,Italian,1978,Goalkeeper,Retired,Parma;Juventus;Paris Saint-Germain,FIFA World Cup 2006;Serie A x10,0
+p022,Peter Schmeichel,Danish,1963,Goalkeeper,Retired,Brondby;Manchester United;Sporting CP;Aston Villa;Manchester City,UEFA Champions League 1999;Premier League x5,0
+p023,Cafu,Brazilian,1970,Defender,Retired,Sao Paulo;Juventude;Porto;Roma;AC Milan,FIFA World Cup 1994 2002;Serie A 2004,5
+p024,Roberto Carlos,Brazilian,1973,Defender,Retired,Palmeiras;Inter Milan;Real Madrid;Fenerbahce;Corinthians;Delhi Dynamos;Akhisarspor,FIFA World Cup 2002;UEFA Champions League 2000 2002;La Liga x4,11
+p025,Paolo Maldini,Italian,1968,Defender,Retired,AC Milan,UEFA Champions League 1989 1990 1994 2003 2007;Serie A x7,29
+p026,Franz Beckenbauer,German,1945,Defender,Retired,Bayern Munich;New York Cosmos;Hamburg,FIFA World Cup 1974;UEFA Champions League 1974 1975 1976;Bundesliga x5,60
+p027,Michel Platini,French,1955,Midfielder,Retired,Nancy;St Etienne;Juventus,Euro 1984;Serie A 1984 1985 1986,224
+p028,Diego Maradona,Argentine,1960,Midfielder,Retired,Argentinos Juniors;Boca Juniors;Barcelona;Napoli;Sevilla,FIFA World Cup 1986;Serie A 1987 1990,259
+p029,Romario,Brazilian,1966,Forward,Retired,Vasco da Gama;PSV Eindhoven;Barcelona;Flamengo;Valencia,FIFA World Cup 1994,772
+p030,Ronaldo Luis Nazario de Lima,Brazilian,1976,Forward,Retired,Cruzeiro;PSV Eindhoven;Barcelona;Inter Milan;Real Madrid;AC Milan;Corinthians,FIFA World Cup 1994 2002,352
+p031,Gareth Bale,Welsh,1989,Forward,Retired,Southampton;Tottenham Hotspur;Real Madrid;Tottenham Hotspur;LAFC,UEFA Champions League 2014 2016 2017 2018;La Liga 2017,201
+p032,Antoine Griezmann,French,1991,Forward,Atletico Madrid,Real Sociedad;Atletico Madrid;Barcelona;Atletico Madrid,UEFA Champions League 2021;FIFA World Cup 2018;Euro 2016,293
+p033,Luis Suarez,Uruguayan,1987,Forward,Retired,Nacional;Groningen;Ajax;Liverpool;Barcelona;Atletico Madrid;Nacional,UEFA Champions League 2015;Premier League 2020;La Liga 2015 2016,500
+p034,Sadio Mane,Senegalese,1992,Forward,Al Nassr,Metz;Red Bull Salzburg;Southampton;Liverpool;Bayern Munich;Al Nassr,UEFA Champions League 2019;Premier League 2020;AFCON 2022,269
+p035,Son Heung-min,South Korean,1992,Forward,Tottenham Hotspur,Hamburg;Bayer Leverkusen;Tottenham Hotspur,Premier League Golden Boot 2022,196
+p036,Trent Alexander-Arnold,English,1998,Defender,Real Madrid,Liverpool;Real Madrid,UEFA Champions League 2019;Premier League 2020,22
+p037,Frenkie de Jong,Dutch,1997,Midfielder,Barcelona,Ajax;Barcelona,UEFA Champions League 2019 Runner-up;La Liga 2023,27
+p038,Pedri,Spanish,2002,Midfielder,Barcelona,Las Palmas;Barcelona,La Liga 2023,30
+p039,Vinicius Junior,Brazilian,2000,Forward,Real Madrid,Flamengo;Real Madrid,UEFA Champions League 2022 2024;La Liga 2022 2024,125
+p040,Jude Bellingham,English,2003,Midfielder,Real Madrid,Birmingham City;Borussia Dortmund;Real Madrid,UEFA Champions League 2024;La Liga 2024,75
+p041,Phil Foden,English,2000,Midfielder,Manchester City,Manchester City,UEFA Champions League 2023;Premier League x4,105
+p042,Bukayo Saka,English,2001,Forward,Arsenal,Arsenal,FA Cup 2020,75
+p043,Jamal Musiala,German,2003,Midfielder,Bayern Munich,Chelsea Youth;Bayern Munich,Bundesliga x3,65
+p044,Gavi,Spanish,2004,Midfielder,Barcelona,Barcelona,La Liga 2023,18
+p045,Rodri,Spanish,1996,Midfielder,Manchester City,Villarreal;Atletico Madrid;Manchester City,UEFA Champions League 2023;Premier League x4;Euro 2024,30
+p046,Declan Rice,English,1999,Midfielder,Arsenal,West Ham United;Arsenal,FA Cup 2023,35
+p047,Marcus Rashford,English,1997,Forward,Manchester United,Manchester United,FA Cup 2024,143
+p048,Bruno Fernandes,Portuguese,1994,Midfielder,Manchester United,Novara;Udinese;Sampdoria;Sporting CP;Manchester United,FA Cup 2024,123
+p049,Casemiro,Brazilian,1992,Midfielder,Manchester United,Sao Paulo;Real Madrid;Manchester United,UEFA Champions League 2016 2017 2018 2022;La Liga x5,55
+p050,Toni Kroos,German,1990,Midfielder,Retired,Bayern Munich;Bayer Leverkusen;Real Madrid,UEFA Champions League 2013 2016 2017 2018 2024;Bundesliga x3;La Liga x3,55

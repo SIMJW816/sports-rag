@@ -1,0 +1,21 @@
+team_id,name,country,league,founded_year,stadium,titles_won,current_manager
+t001,Real Madrid,Spain,La Liga,1902,Santiago Bernabeu,UEFA Champions League x15 La Liga x35 Copa del Rey x20,Carlo Ancelotti
+t002,FC Barcelona,Spain,La Liga,1899,Camp Nou,UEFA Champions League x5 La Liga x27 Copa del Rey x31,Hansi Flick
+t003,Manchester United,England,Premier League,1878,Old Trafford,UEFA Champions League x3 Premier League x20 FA Cup x12,Erik ten Hag
+t004,Liverpool,England,Premier League,1892,Anfield,UEFA Champions League x6 Premier League x19 FA Cup x8,Arne Slot
+t005,Bayern Munich,Germany,Bundesliga,1900,Allianz Arena,UEFA Champions League x6 Bundesliga x32 DFB Pokal x20,Vincent Kompany
+t006,Manchester City,England,Premier League,1880,Etihad Stadium,UEFA Champions League x1 Premier League x10 FA Cup x7,Pep Guardiola
+t007,Juventus,Italy,Serie A,1897,Allianz Stadium,UEFA Champions League x2 Serie A x36 Coppa Italia x15,Thiago Motta
+t008,AC Milan,Italy,Serie A,1899,San Siro,UEFA Champions League x7 Serie A x19 Coppa Italia x5,Paulo Fonseca
+t009,Inter Milan,Italy,Serie A,1908,San Siro,UEFA Champions League x3 Serie A x20 Coppa Italia x8,Simone Inzaghi
+t010,Paris Saint-Germain,France,Ligue 1,1970,Parc des Princes,Ligue 1 x12 Coupe de France x15,Luis Enrique
+t011,Atletico Madrid,Spain,La Liga,1903,Metropolitano,UEFA Champions League x0 La Liga x11 Copa del Rey x10,Diego Simeone
+t012,Chelsea,England,Premier League,1905,Stamford Bridge,UEFA Champions League x2 Premier League x6 FA Cup x8,Enzo Maresca
+t013,Arsenal,England,Premier League,1886,Emirates Stadium,Premier League x13 FA Cup x14,Mikel Arteta
+t014,Borussia Dortmund,Germany,Bundesliga,1909,Signal Iduna Park,UEFA Champions League x0 Bundesliga x8 DFB Pokal x5,Niko Kovac
+t015,Ajax,Netherlands,Eredivisie,1900,Johan Cruyff Arena,UEFA Champions League x4 Eredivisie x36,Francesco Farioli
+t016,Porto,Portugal,Primeira Liga,1893,Estadio do Dragao,UEFA Champions League x2 Primeira Liga x30,Vitor Bruno
+t017,Boca Juniors,Argentina,Primera Division,1905,La Bombonera,Copa Libertadores x6 Primera Division x35,Diego Martinez
+t018,Santos,Brazil,Campeonato Brasileiro,1912,Vila Belmiro,Copa Libertadores x3 Campeonato Brasileiro x8,Fabio Carille
+t019,Flamengo,Brazil,Campeonato Brasileiro,1895,Maracana,Copa Libertadores x3 Campeonato Brasileiro x7,Tite
+t020,Al Nassr,Saudi Arabia,Saudi Pro League,1955,Al-Awwal Park,Saudi Pro League x9,Stefano Pioli

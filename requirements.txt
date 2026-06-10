@@ -1,0 +1,43 @@
+# Core LangChain
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-community>=0.3.0
+langchain-experimental>=0.3.0
+langchain-chroma>=0.1.0
+langchain-neo4j>=0.1.0
+langchain-text-splitters>=0.3.0
+# langchain 0.3+ 에서 EnsembleRetriever가 이동된 패키지
+langchain-classic>=0.0.1
+
+# Vector store
+chromadb>=0.5.0
+
+# Sparse retrieval
+rank-bm25>=0.2.2
+
+# Evaluation
+# ragas 0.1.21 권장 (Python 3.11 환경)
+# 0.2.x 는 Python 3.12+ asyncio 충돌 주의
+ragas>=0.1.21
+# ragas 0.1.x 에서 HFDataset API 사용 시 필요
+datasets>=2.0.0
+# Python 3.12+ 에서 Ragas asyncio 호환을 위해 필요
+nest_asyncio>=1.6.0
+
+# Data & analysis
+pandas>=2.0.0
+numpy>=1.26.0
+
+# Visualization
+matplotlib>=3.8.0
+plotly>=5.18.0
+pyvis>=0.3.2
+
+# UI
+streamlit>=1.35.0
+
+# Neo4j driver
+neo4j>=5.0.0
+
+# Utilities
+python-dotenv>=1.0.0

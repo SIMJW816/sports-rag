@@ -1,0 +1,16 @@
+tournament_id,name,type,frequency,current_champion,most_successful_team,prize_money_usd
+tr001,UEFA Champions League,Club Continental,Annual,Real Madrid,Real Madrid,2000000000
+tr002,FIFA World Cup,National Continental,Quadrennial,Argentina,Brazil,600000000
+tr003,Premier League,Club Domestic,Annual,Manchester City,Manchester United,3000000000
+tr004,La Liga,Club Domestic,Annual,Real Madrid,Real Madrid,1800000000
+tr005,Bundesliga,Club Domestic,Annual,Bayer Leverkusen,Bayern Munich,900000000
+tr006,Serie A,Club Domestic,Annual,Inter Milan,Juventus,1200000000
+tr007,Ligue 1,Club Domestic,Annual,Paris Saint-Germain,Paris Saint-Germain,700000000
+tr008,UEFA Europa League,Club Continental,Annual,Atalanta,Sevilla,600000000
+tr009,UEFA Euro,National Continental,Quadrennial,Spain,Germany,371000000
+tr010,Copa America,National Continental,Quadrennial,Argentina,Uruguay,60000000
+tr011,AFC Champions League,Club Continental,Annual,Al Ain,Seongnam Ilhwa Chunma,25000000
+tr012,Copa Libertadores,Club Continental,Annual,Atletico Mineiro,Independiente,23000000
+tr013,FA Cup,Club Domestic,Annual,Manchester United,Arsenal,20000000
+tr014,DFB Pokal,Club Domestic,Annual,Bayer Leverkusen,Bayern Munich,5000000
+tr015,FIFA Club World Cup,Club Global,Annual,Real Madrid,Real Madrid,50000000

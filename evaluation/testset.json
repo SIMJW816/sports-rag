@@ -1,0 +1,242 @@
+[
+  {
+    "id": "q001",
+    "question": "Which team won the UEFA Champions League in 2022?",
+    "ground_truth": "Real Madrid won the 2022 UEFA Champions League, defeating Liverpool 1-0 in the final with a goal from Vinicius Junior.",
+    "question_type": "factual",
+    "expected_best_system": "hybrid",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q002",
+    "question": "When was the Premier League founded?",
+    "ground_truth": "The Premier League was founded in 1992 when the First Division clubs resigned from The Football League.",
+    "question_type": "factual",
+    "expected_best_system": "hybrid",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q003",
+    "question": "Who is the all-time top scorer in the UEFA Champions League?",
+    "ground_truth": "Cristiano Ronaldo is the all-time top scorer in the UEFA Champions League with over 140 goals, scoring for Manchester United, Real Madrid, and Juventus.",
+    "question_type": "factual",
+    "expected_best_system": "hybrid",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q004",
+    "question": "Which country has won the FIFA World Cup the most times?",
+    "ground_truth": "Brazil has won the FIFA World Cup the most times with five victories, in 1958, 1962, 1970, 1994, and 2002.",
+    "question_type": "factual",
+    "expected_best_system": "vector",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q005",
+    "question": "What was Manchester United's historic Champions League final comeback in 1999?",
+    "ground_truth": "In the 1999 Champions League final against Bayern Munich, Manchester United were losing 1-0 until the 90th minute before Teddy Sheringham and Ole Gunnar Solskjaer scored in injury time to win 2-1 and complete a historic treble.",
+    "question_type": "factual",
+    "expected_best_system": "vector",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q006",
+    "question": "How many Ballon d'Or awards did Lionel Messi win from 2009 to 2012?",
+    "ground_truth": "Lionel Messi won four consecutive Ballon d'Or awards from 2009 to 2012, a feat that had never been achieved before.",
+    "question_type": "factual",
+    "expected_best_system": "hybrid",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q007",
+    "question": "Which stadium is known as the Theatre of Dreams?",
+    "ground_truth": "Old Trafford, the home ground of Manchester United, is known as the Theatre of Dreams.",
+    "question_type": "factual",
+    "expected_best_system": "hybrid",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q008",
+    "question": "What was Arsenal's historic achievement in the 2003-04 Premier League season?",
+    "ground_truth": "Arsenal went the entire 2003-04 Premier League season unbeaten, winning 26 and drawing 12 games out of 38. This squad is known as the Invincibles.",
+    "question_type": "factual",
+    "expected_best_system": "vector",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q009",
+    "question": "What is the relationship between Pep Guardiola and Lionel Messi?",
+    "ground_truth": "Pep Guardiola managed Lionel Messi at FC Barcelona from 2008 to 2012. Guardiola invented the false nine role specifically for Messi, unleashing his full potential and winning multiple Champions League and La Liga titles together.",
+    "question_type": "relational",
+    "expected_best_system": "graph",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q010",
+    "question": "What is the connection between Zinedine Zidane and Real Madrid?",
+    "ground_truth": "Zinedine Zidane has a dual relationship with Real Madrid: as a player from 2001 to 2006 he scored one of the greatest Champions League final goals; as manager from 2016 to 2021 he won three consecutive Champions League titles.",
+    "question_type": "relational",
+    "expected_best_system": "graph",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q011",
+    "question": "How is Sir Alex Ferguson connected to Cristiano Ronaldo's development?",
+    "ground_truth": "Sir Alex Ferguson signed Cristiano Ronaldo from Sporting CP in 2003 for £12.24 million and nurtured him at Manchester United, transforming him from a tricky winger into a world-class complete forward. Ronaldo won the Champions League under Ferguson in 2008.",
+    "question_type": "relational",
+    "expected_best_system": "graph",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q012",
+    "question": "What is the relationship between Johan Cruyff and Pep Guardiola?",
+    "ground_truth": "Johan Cruyff was Pep Guardiola's most influential mentor. Guardiola played under Cruyff at FC Barcelona, winning the Champions League in 1992, and Cruyff's Total Football philosophy profoundly shaped Guardiola's own management style.",
+    "question_type": "relational",
+    "expected_best_system": "graph",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q013",
+    "question": "How are Thierry Henry and Arsenal connected?",
+    "ground_truth": "Thierry Henry was Arsenal's talisman under manager Arsene Wenger, scoring 30 league goals in the 2003-04 Invincibles season and winning two Premier League titles. He later joined Barcelona before returning briefly to Arsenal.",
+    "question_type": "relational",
+    "expected_best_system": "hybrid",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q014",
+    "question": "What connects Roberto Carlos and the 2002 FIFA World Cup?",
+    "ground_truth": "Roberto Carlos was a member of the Brazilian national team that won the 2002 FIFA World Cup in South Korea and Japan, which was one of his major career trophies won while playing for Real Madrid.",
+    "question_type": "relational",
+    "expected_best_system": "graph",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q015",
+    "question": "Which players were teammates of both Messi and Ronaldo at any point in their careers?",
+    "ground_truth": "No player has been a direct club teammate of both Messi and Ronaldo simultaneously, as they played for Barcelona and Real Madrid respectively during their peak years and never shared the same club. Some players played with each at different career stages.",
+    "question_type": "multi_hop",
+    "expected_best_system": "graph",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q016",
+    "question": "Which players were managed by Pep Guardiola at Barcelona and later won the Champions League with a different club?",
+    "ground_truth": "Several players managed by Guardiola at Barcelona went on to win the Champions League elsewhere. Thierry Henry won the Champions League at Barcelona itself under Guardiola in 2009, but players from that era went on to coaching careers. The question requires multi-hop graph traversal to answer precisely.",
+    "question_type": "multi_hop",
+    "expected_best_system": "graph",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q017",
+    "question": "Which manager won the Champions League both as a player and as a manager?",
+    "ground_truth": "Zinedine Zidane won the Champions League as a player with Real Madrid in 2002 and then as manager with Real Madrid in 2016, 2017, and 2018. Carlo Ancelotti also won it as a player with AC Milan and as manager with AC Milan and Real Madrid.",
+    "question_type": "multi_hop",
+    "expected_best_system": "graph",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q018",
+    "question": "Which player scored in a Champions League final and then went on to manage a club that won the Champions League?",
+    "ground_truth": "Zinedine Zidane scored in the 2002 Champions League final with Real Madrid and later managed Real Madrid to three consecutive Champions League titles in 2016, 2017, and 2018.",
+    "question_type": "multi_hop",
+    "expected_best_system": "graph",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q019",
+    "question": "Which Brazilian player won the World Cup in 1994 and 2002?",
+    "ground_truth": "Ronaldo Nazario (R9) won the FIFA World Cup with Brazil in both 1994 (as a squad member, not a starter) and 2002, where he was the tournament's top scorer with 8 goals and scored both goals in the final against Germany.",
+    "question_type": "multi_hop",
+    "expected_best_system": "graph",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q020",
+    "question": "Who coached the team that won the Champions League in the season when Messi won his first Ballon d'Or?",
+    "ground_truth": "In 2009, Pep Guardiola managed Barcelona to the Champions League title. That same year, Lionel Messi won his first Ballon d'Or. So Pep Guardiola coached the Champions League-winning team in the season Messi won his first Ballon d'Or.",
+    "question_type": "multi_hop",
+    "expected_best_system": "graph",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q021",
+    "question": "Which Argentine player became World Cup champion in both 1978 and has a connection to Diego Maradona?",
+    "ground_truth": "This is a hard multi-hop question. Argentina won the 1978 World Cup domestically. Diego Maradona led Argentina to the 1986 World Cup title. No single player won both 1978 and 1986. This question is intentionally designed to challenge the system.",
+    "question_type": "multi_hop",
+    "expected_best_system": "graph",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q022",
+    "question": "Which national team has produced the most individual Ballon d'Or winners?",
+    "ground_truth": "France has produced the most individual Ballon d'Or winners across different players, including Michel Platini, Zinedine Zidane, and Karim Benzema. Argentina's Messi has won the most total awards (8) but represents a single player.",
+    "question_type": "multi_hop",
+    "expected_best_system": "graph",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q023",
+    "question": "How many clubs did Roberto Carlos play for after leaving Real Madrid?",
+    "ground_truth": "Roberto Carlos played for four clubs after leaving Real Madrid: Fenerbahce (Turkey), Corinthians (Brazil), Delhi Dynamos (India), and Akhisarspor (Turkey).",
+    "question_type": "aggregation",
+    "expected_best_system": "graph",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q024",
+    "question": "How many UEFA Champions League titles has Real Madrid won in total?",
+    "ground_truth": "Real Madrid has won the UEFA Champions League a record 15 times, the most of any club in the competition's history.",
+    "question_type": "aggregation",
+    "expected_best_system": "graph",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q025",
+    "question": "How many different teams has Cristiano Ronaldo played for in his career?",
+    "ground_truth": "Cristiano Ronaldo has played for five clubs: Sporting CP, Manchester United, Real Madrid, Juventus, and Al Nassr.",
+    "question_type": "aggregation",
+    "expected_best_system": "graph",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q026",
+    "question": "How many Premier League titles did Manchester United win under Sir Alex Ferguson?",
+    "ground_truth": "Manchester United won 13 Premier League titles under Sir Alex Ferguson during his 26-year tenure from 1986 to 2013.",
+    "question_type": "aggregation",
+    "expected_best_system": "graph",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q027",
+    "question": "Ronaldo hat-trick 2009 Champions League Bayern Munich",
+    "ground_truth": "Cristiano Ronaldo scored a hat-trick against Bayern Munich in 2009. This was a notable Champions League performance during his final season at Manchester United before his transfer to Real Madrid.",
+    "question_type": "keyword_exact",
+    "expected_best_system": "hybrid",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q028",
+    "question": "Messi Ballon d'Or 2012 record goals",
+    "ground_truth": "In 2012, Lionel Messi won his fourth consecutive Ballon d'Or and set the world record of 91 goals in a single calendar year, a record that still stands. This was during his time at FC Barcelona under manager Tito Vilanova.",
+    "question_type": "keyword_exact",
+    "expected_best_system": "hybrid",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q029",
+    "question": "Aguero 93:20 goal Premier League title Manchester City 2012",
+    "ground_truth": "Sergio Aguero scored a last-minute goal at 93 minutes and 20 seconds against QPR on the final day of the 2011-12 Premier League season, giving Manchester City the title on goal difference from Manchester United. Roberto Mancini was the City manager.",
+    "question_type": "keyword_exact",
+    "expected_best_system": "hybrid",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q030",
+    "question": "Which lesser-known team from Portugal won the Champions League in 2004?",
+    "ground_truth": "Porto, managed by Jose Mourinho, won the UEFA Champions League in 2004, defeating Monaco 3-0 in the final. This was one of the most surprising Champions League victories in the modern era and launched Mourinho's career at Chelsea.",
+    "question_type": "factual",
+    "expected_best_system": "hybrid",
+    "difficulty": "hard"
+  }
+]
