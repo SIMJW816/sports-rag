@@ -6,8 +6,7 @@
 Knowledge Graph RAG(Neo4j + LLMGraphTransformer)를 하나의 시스템에 통합한
 프로덕션 수준의 RAG 프로젝트입니다.
 
-Neo4j AuraDB URL:
-LangSmith URL:
+LangSmith URL: https://smith.langchain.com/public/cbe620cd-b041-48cd-9d48-eaf3791f1baa/r
 
 ---
 
